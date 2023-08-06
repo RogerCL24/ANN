@@ -71,6 +71,18 @@ Adam is the best optimization algorithm in this case, with the same amount of it
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
 
 ## Performance assessment
+In order to check if our model is learning properly or not, looking for overfitting or underfitting errors, comparing the real value and the predicted one....This way we know what we have to do, increase the amount of data to train, decrease it, change the model alternating layers, use diferent optmizators algorithms....The main goal is get the lowest error.
+On _Supervised Learning_:
+- **Classification** techniques: Classification Accuracy, Confusion Matrix, Area under curve (AUC)...
+- **Regression** techniques: Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) <sub> There are more </sub>
+### Confusion Matrix 
+![image](https://github.com/RogerCL24/ANN/assets/90930371/912019bc-2721-4c11-a55f-cae838e36e6c)
+Imagine you have several animal pictures and a trained model created to detect dogs if it's a dog will be a positive otherwise a negative:
+- The first photo is a dog therefore Reference/Real value is positive, if the model get it right the predicted value is positive, that means is a True Positive (TP) otherwise would be a False Negative (FN)
+- The second photo is a cat therefore Reference/Real value is negative, if the model get it right the predicted value is negative, that means is a True Negative(TN) otherwise would be a False Positive (FP)
+![image](https://github.com/RogerCL24/ANN/assets/90930371/3d767f26-ac6d-4168-a0ee-0e8859c3fb2e)
 
+[Source](https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347)
+To evaluate the performance we use this functions, how many were classified correctly and how many were classifeid wrong.
 
 
