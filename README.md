@@ -7,7 +7,9 @@ Machine learning is divided in 3 big groups _Supervised Learning_, _Unsupervised
   - **Dimensionality reduction**: Feature elicitation, Structure discovery, Meaningful compression, Big data visualisation.
   - **Clustering** Customer segmentation, Targeted marketing, Recommender systems.
 - _Reinforcement Learning_: Game AI, Skill Acquisition, Learning tasks, Robot Navigation, Real-time decisions.
-   
+
+> NOTE: In this case I am going to focus on Supersvised learnig and more specifically on Classification ML
+
 ## Arquitectures
 ### Introduction example 
 ![Feed](https://github.com/RogerCL24/ANN/assets/90930371/1f27fc5b-89c6-4f0e-b66b-4354a14926aa)
