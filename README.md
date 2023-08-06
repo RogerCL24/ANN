@@ -2,7 +2,7 @@
 
 ## Arquitectures
 ### Introduction example 
-![Feed](https://github.com/RogerCL24/ANN/assets/90930371/c3bb3305-7338-46a0-8ae8-87b852c25e6c)
+![Feed](https://github.com/RogerCL24/ANN/assets/90930371/1f27fc5b-89c6-4f0e-b66b-4354a14926aa)
 [https://learnopencv.com/understanding-feedforward-neural-networks/](https://learnopencv.com/understanding-feedforward-neural-networks/)
 
 Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptrons``, the perceptrons from the input layer send the data to the hidden layer and finally to the output layer, is a ``feed-forward`` network, it goes from layer to layer until the end
