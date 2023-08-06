@@ -34,7 +34,7 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 ## Structure
 
 1. **IMPORT**: Import the needed libraries like tensorflow(keras), numpy, matplotlib -> First lines of [1_FirstDataSet.ipynb](https://github.com/RogerCL24/ANN/blob/main/1_FirstDataSet.ipynb)
-2. **DATA**: What data are going to use to train our model, and which part is will be train data and which test data <sub> train data should be 80%/70% and test data 20%/30% </sub> -> Machine Learning section at [1_FirstDataSet.ipynb](https://github.com/RogerCL24/ANN/blob/main/1_FirstDataSet.ipynb)
+2. **DATA**: What data are going to use to train our model, and which part will be train data and which test data <sub> train data should be 80%/70% and test data 20%/30% </sub> -> Machine Learning section at [1_FirstDataSet.ipynb](https://github.com/RogerCL24/ANN/blob/main/1_FirstDataSet.ipynb)
 3. **MODEL**: Arquitecture of the model:
   - Model layers: Input layers, hidden layers, output layers, if they are going to be dense layers, types of activation functions (sigmoid, tanh, softmax, ReLU...).
   - Model compilation: Optimization, error comparisons, data transfer between layers. 
