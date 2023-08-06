@@ -39,7 +39,7 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 ![SIgmoid](https://github.com/RogerCL24/ANN/assets/90930371/5d8f21df-2172-47c8-9c85-5aba77f035de)
 
 - **tanh**: hiperbolic tangent.
-- 
+
 ![tanh](https://github.com/RogerCL24/ANN/assets/90930371/72f7ca53-6d9a-4853-87e9-28c2c5988555)
 
 <sub> Image source from EDteam organization </sub>
