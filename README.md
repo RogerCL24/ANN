@@ -51,7 +51,7 @@ There are sevel types of optimizers like AdaGrad, RMSProp, SGDNesterov, AdaDelta
 
 [Source](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning)
 
-Adam is the best optimization algorithm in this, with the same amount of iterations over the dataset has less training cost.
+Adam is the best optimization algorithm in this case, with the same amount of iterations over the dataset has less training cost.
 
 > OBSERVATION: All the optimization algorithms and activation functions are already implemented at the TensorFlow(keras) library
 
