@@ -39,10 +39,9 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 ![SIgmoid](https://github.com/RogerCL24/ANN/assets/90930371/5d8f21df-2172-47c8-9c85-5aba77f035de)
 
 - **tanh**: hiperbolic tangent.
-
 ![tanh](https://github.com/RogerCL24/ANN/assets/90930371/72f7ca53-6d9a-4853-87e9-28c2c5988555)
 
-<sub> Image source from EDteam organization </sub>
+<sub> Image source from the EDteam organization </sub>
 
 ### Model compiling (Optimizers)
 There are sevel types of optimizers like AdaGrad, RMSProp, SGDNesterov, AdaDelta, Adam... used to reduce the training cost, for example in MNIST data set (images of the 0 to 9 digits)
@@ -54,5 +53,6 @@ Adam is the best optimization algorithm in this, with the same amount of iterati
 
 ### Example of the model functionality with the MNIST dataset
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
+
 
 
