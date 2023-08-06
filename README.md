@@ -29,3 +29,24 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
   - Model layers: Input layers, hidden layers, output layers, if they are going to be dense layers, types of activation functions (sigmoid, tanh, softmax, ReLU...).
   - Model compilation: Optimization, error comparisons, data transfer between layers. 
 4. **TRAIN(fit) & EVALUATE(predict)**: Training the model with the treated dataset (train data) several times and then evaluate the model with new data (test data) to verify the performance. -> Example of this and `MODEL` at [3_TensorFlow.ipynb](https://github.com/RogerCL24/ANN/blob/main/3_TensorFlow.ipynb)
+
+## Model
+### Model layers (activation functions) <sub> Most used </sub>
+- **ReLU**: Any data input will be positive, if the input is negative then the output is 0 otherwise it has the same value.
+![ReLU](https://github.com/RogerCL24/ANN/assets/90930371/9ddb3419-696b-492d-aecb-b71f7b5ea59d)
+- **Sigmoid**: Used to classify binary, if there are more classification possibilities than 1 or 0 we use a Sigmoid derivative
+![SIgmoid](https://github.com/RogerCL24/ANN/assets/90930371/5d8f21df-2172-47c8-9c85-5aba77f035de)
+- **tanh**: hiperbolic tangent
+![tanh](https://github.com/RogerCL24/ANN/assets/90930371/72f7ca53-6d9a-4853-87e9-28c2c5988555)
+<sub> Image source from EDteam organization </sub>
+
+### Model compiling (Optimizers)
+There are sevel types of optimizers like AdaGrad, RMSProp, SGDNesterov, AdaDelta, Adam... used to reduce the training cost, for example in MNIST data set (images of the 0 to 9 digits)
+![Adam](https://github.com/RogerCL24/ANN/assets/90930371/2f248f59-8f17-4e8e-a5b8-23dbe5f0cdc5)
+[Source](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning)
+Adam is the best optimization algorithm in this, with the same amount of iterations over the dataset has less training cost.
+
+> OBSERVATION: All the optimization algorithms and activation functions are already implemented at the TensorFlow(keras) library
+![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
+
+
