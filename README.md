@@ -35,10 +35,11 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 - **ReLU**: Any data input will be positive, if the input is negative then the output is 0 otherwise it has the same value.
 ![ReLU](https://github.com/RogerCL24/ANN/assets/90930371/9ddb3419-696b-492d-aecb-b71f7b5ea59d)
 
-- **Sigmoid**: Used to classify binary, if there are more classification possibilities than 1 or 0 we use a Sigmoid derivative
+- **Sigmoid**: Used to classify binary, if there are more classification possibilities than 1 or 0 we use a Sigmoid derivative.
 ![SIgmoid](https://github.com/RogerCL24/ANN/assets/90930371/5d8f21df-2172-47c8-9c85-5aba77f035de)
 
-- **tanh**: hiperbolic tangent
+- **tanh**: hiperbolic tangent.
+- 
 ![tanh](https://github.com/RogerCL24/ANN/assets/90930371/72f7ca53-6d9a-4853-87e9-28c2c5988555)
 
 <sub> Image source from EDteam organization </sub>
@@ -51,6 +52,7 @@ Adam is the best optimization algorithm in this, with the same amount of iterati
 
 > OBSERVATION: All the optimization algorithms and activation functions are already implemented at the TensorFlow(keras) library
 
+### Example of the model functionality with the MNIST dataset
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
 
 
