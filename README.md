@@ -78,7 +78,7 @@ On _Supervised Learning_:
 ### Confusion Matrix 
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/912019bc-2721-4c11-a55f-cae838e36e6c)
 
-Imagine you have several animal pictures and a trained model created to detect dogs if it's a dog will be a positive otherwise a negative:
+Imagine you have several animal pictures and a trained model created to detect dogs, if it's a dog will be a positive otherwise a negative:
 - The first photo is a dog therefore Reference/Real value is positive, if the model get it right the predicted value is positive, that means is a True Positive (TP) otherwise would be a False Negative (FN)
 - The second photo is a cat therefore Reference/Real value is negative, if the model get it right the predicted value is negative, that means is a True Negative(TN) otherwise would be a False Positive (FP)
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/3d767f26-ac6d-4168-a0ee-0e8859c3fb2e)
