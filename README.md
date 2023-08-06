@@ -15,5 +15,8 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 
 [Source](https://www.jessicayung.com/explaining-tensorflow-code-for-a-convolutional-neural-network/)
 - **Recurrent Neural Network or RNN**: It works like a cycle because the hidden layer has feedback, its used in the language field to create paragraphs or sentences with the context.
+![Recurrent](https://github.com/RogerCL24/ANN/assets/90930371/6cd5c133-c2ef-4eda-bf17-e0ea6c1a5b4b)
+
+[Source](https://zhuanlan.zhihu.com/p/37290775)
 - **Radial basis function Neural Network or RBF**: It's like the ``feedforward`` neural network but in the hidden layer the output of the function is calculated depending on the distance the center is.
 - **Modular Neural Network**: Like the name describes, there are isolated neural networks which compose the Modular neural network, namely, each isolated neural networks is a module.
