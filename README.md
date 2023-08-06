@@ -72,7 +72,8 @@ Adam is the best optimization algorithm in this case, with the same amount of it
 
 ## Performance assessment
 In order to check if our model is learning properly or not, we need to look for overfitting or underfitting errors, comparing the real value and the predicted one....This way we know what we have to do, increase the amount of data to train, decrease it, change the model alternating layers, use a diferent optmizators algorithms....The main goal is get the lowest error.
-On _Supervised Learning_:
+
+On _Supervised Learning_: <sub> We are going to focus only in this one </sub>
 - **Classification** techniques: Classification Accuracy, Confusion Matrix, Area under curve (AUC)...
 - **Regression** techniques: Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) <sub> There are more </sub>
 ### Confusion Matrix 
