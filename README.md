@@ -46,7 +46,9 @@ Here we got a Neural Network with 3 layers each layers has 1 or more ``perceptro
 
 ### Model compiling (Optimizers)
 There are sevel types of optimizers like AdaGrad, RMSProp, SGDNesterov, AdaDelta, Adam... used to reduce the training cost, for example in MNIST data set (images of the 0 to 9 digits)
+
 ![Adam](https://github.com/RogerCL24/ANN/assets/90930371/2f248f59-8f17-4e8e-a5b8-23dbe5f0cdc5)
+
 [Source](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning)
 Adam is the best optimization algorithm in this, with the same amount of iterations over the dataset has less training cost.
 
