@@ -1,8 +1,8 @@
 # Artificial Neural Network
 Machine learning is divided in 3 big groups _Supervised Learning_, _Unsupervised Learing_ and _Reinforcement Learning_:
 - _Supervised Learning_: Has 2 subgroups:
- -  Classification: Binary outputs, is related to -> Identity fraud detection, Image classification, Customer Retention and Diagnostics.
- -  Regression: Real values (%) -> Advertising popularity prediction, Weather forecasting, Market forecasting, Estimating life expectancy, Population growth prediction.
+ - Classification: Binary outputs, is related to -> Identity fraud detection, Image classification, Customer Retention and Diagnostics.
+ - Regression: Real values (%) -> Advertising popularity prediction, Weather forecasting, Market forecasting, Estimating life expectancy, Population growth prediction.
 - _Unsupervised Learning_: Has 2 subgroups:
   - Dimensionality reduction: Feature elicitation, Structure discovery, Meaningful compression, Big data visualisation.
   - Clustering: Customer segmentation, Targeted marketing, Recommender systems.
