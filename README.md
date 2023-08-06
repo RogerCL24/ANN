@@ -83,6 +83,7 @@ Imagine you have several animal pictures and a trained model created to detect d
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/3d767f26-ac6d-4168-a0ee-0e8859c3fb2e)
 
 [Source](https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347)
+
 To evaluate the performance we use this functions, how many were classified correctly and how many were classifeid wrong.
 
 
