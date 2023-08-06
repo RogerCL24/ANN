@@ -1,5 +1,13 @@
 # Artificial Neural Network
-
+Machine learning is divided in 3 big groups _Supervised Learning_, _Unsupervised Learing_ and _Reinforcement Learning_:
+- _Supervised Learning_: Has 2 subgroups:
+ -  Classification: Binary outputs, is related to -> Identity fraud detection, Image classification, Customer Retention and Diagnostics.
+ -  Regression: Real values (%) -> Advertising popularity prediction, Weather forecasting, Market forecasting, Estimating life expectancy, Population growth prediction.
+- _Unsupervised Learning_: Has 2 subgroups:
+  - Dimensionality reduction: Feature elicitation, Structure discovery, Meaningful compression, Big data visualisation.
+  - Clustering: Customer segmentation, Targeted marketing, Recommender systems.
+- _Reinforcement Learning_: Game AI, Skill Acquisition, Learning tasks, Robot Navigation, Real-time decisions.
+   
 ## Arquitectures
 ### Introduction example 
 ![Feed](https://github.com/RogerCL24/ANN/assets/90930371/1f27fc5b-89c6-4f0e-b66b-4354a14926aa)
@@ -59,6 +67,8 @@ Adam is the best optimization algorithm in this case, with the same amount of it
 
 ### Example of the model functionality with the MNIST dataset
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
+
+## Performance assessment
 
 
 
