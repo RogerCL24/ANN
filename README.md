@@ -91,7 +91,6 @@ To evaluate the performance we use this functions, how many were classified corr
 ## Algorithms
 ### Non supervised Machine Learning algortihms
 
-
 - **Classification**
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/470a91b4-a28f-4de7-85d5-ae980db1a433)
 
@@ -110,8 +109,7 @@ To evaluate the performance we use this functions, how many were classified corr
 
     Relation of different dots in a mathematic function
     
-  - _Decision Tree (DT)_: <sub> To give real numbers </sub>
-  
+  - _Decision Tree (DT)_: <sub> To give real numbers </sub> 
    ![image](https://github.com/RogerCL24/ANN/assets/90930371/30290778-b858-4493-81c3-d8d7b4715def)
   
   This algorithm can produce erros, like overfitting -> solution
