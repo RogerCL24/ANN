@@ -96,14 +96,21 @@ To evaluate the performance we use this functions, how many were classified corr
   - _Decision Tree (DT)_: <sub> To classificate </sub>
   
     ![image](https://github.com/RogerCL24/ANN/assets/90930371/0723dbc3-ab4d-4102-bd8d-726d34645d08)
+    
     The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 - **Regression**
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/1d152637-4f58-4dad-aec0-0799c3089416)
+
   - _Linear regression_:
+  - 
    ![image](https://github.com/RogerCL24/ANN/assets/90930371/f829d764-4560-4f88-af63-c9b8641513ef)
+
     Relation of different dots in a mathematic function
+    
   - _Decision Tree (DT)_: <sub> To give real numbers </sub>
+  
    ![image](https://github.com/RogerCL24/ANN/assets/90930371/30290778-b858-4493-81c3-d8d7b4715def)
+  
   This algorithm can produce erros, like overfitting -> solution
     - _Random Forest_:
     ![image](https://github.com/RogerCL24/ANN/assets/90930371/ccaf06dc-cc35-4933-aaf9-2c4994e4306c)
