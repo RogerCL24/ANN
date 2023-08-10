@@ -92,7 +92,9 @@ To evaluate the performance we use this functions, how many were classified corr
 ### Non supervised Machine Learning algortihms
 - **Classification**
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/470a91b4-a28f-4de7-85d5-ae980db1a433)
+
   - _Decision Tree (DT)_: <sub> To classificate </sub>
+  
     ![image](https://github.com/RogerCL24/ANN/assets/90930371/0723dbc3-ab4d-4102-bd8d-726d34645d08)
     The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 - **Regression**
