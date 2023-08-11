@@ -101,7 +101,8 @@ To evaluate the performance we use this functions, how many were classified corr
   
   ![DT](https://github.com/RogerCL24/ANN/assets/90930371/875f424d-b7d0-4148-b8fd-d45a2ea7aefc)
     
-   - The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
+   - The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_, namely, each node in the tree specifies a test on an attribute, each branch descending from that node corresponds to one of the possible values for that attribute.
+
 
 - **Regression**
   - We can use different algorithms like: linear regression, DT and SVM.
