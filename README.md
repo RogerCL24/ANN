@@ -90,6 +90,8 @@ To evaluate the performance we use this functions, how many were classified corr
 
 ## Algorithms
 ### NSMLA
-- **c**
+- **Classification**
+![image](https://github.com/RogerCL24/ANN/assets/90930371/470a91b4-a28f-4de7-85d5-ae980db1a433)
+
 
    
