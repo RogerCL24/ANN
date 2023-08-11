@@ -136,4 +136,24 @@ To evaluate the performance we use this functions, how many were classified corr
 - Now we have several trees, each DT makes their own decision and then the votation is executed, it should be an odd number of DTs
   
 >  OBSERVATION: This example is for the classification DT (final class) but it can be implemented at the regression DT as well.
-   
+
+### Unpervised Machine Learning algortihms
+
+- **Clustering**
+  - _k-means_:  
+ 
+![Clust](https://github.com/RogerCL24/ANN/assets/90930371/3c181b3f-43d4-4f68-9ed5-30c6babbf8e8)
+
+  - Is a grouping method which splits n observations in k clusters where each obseravtion belongs to the cluster with the nearest mean value using the centroids to measure that distance between all the observations of the same cluster. It's used in data mining.
+  - To determine the k (number of clusters) we use some methods, like the Elbow Method ⬇️
+    
+![El](https://github.com/RogerCL24/ANN/assets/90930371/68c9d40b-ad95-4fa3-b716-ebc83ceba97d)
+
+<sub> [Source](https://towardsdatascience.com/elbow-method-is-not-sufficient-to-find-best-k-in-k-means-clustering-fc820da0631d) </sub>
+
+The k value will be the point where the differences between the point (the diameter value of a specific k) and the former diameter value is large enough and the point and the next diameter value is short enough, for that reason it's called elbow, it has the shape of it.
+
+
+
+
+
