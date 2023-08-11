@@ -91,6 +91,7 @@ To evaluate the performance we use this functions, how many were classified corr
 ## Algorithms
 ### Supervised Machine Learning algortihms
 - **Classification**
+![Class](https://github.com/RogerCL24/ANN/assets/90930371/b2d1ee97-1316-4720-b736-98d2bf42278d)
 
 
   - _Decision Tree (DT)_: <sub> To classificate </sub>
@@ -99,6 +100,7 @@ To evaluate the performance we use this functions, how many were classified corr
     
     The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 - **Regression**
+![Reg](https://github.com/RogerCL24/ANN/assets/90930371/6daa8684-7739-4cf2-815c-66a465b25270)
 
 
 
