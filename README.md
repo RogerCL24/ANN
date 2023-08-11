@@ -90,6 +90,6 @@ To evaluate the performance we use this functions, how many were classified corr
 
 ## Algorithms
 ### NSMLA
-- C
+- **c**
 
    
