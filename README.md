@@ -90,7 +90,7 @@ To evaluate the performance we use this functions, how many were classified corr
 
 ## Algorithms
 ### Non supervised Machine Learning algortihms 
-**Classification**
+- **Classification**
 
 
   - _Decision Tree (DT)_: <sub> To classificate </sub>
@@ -99,11 +99,11 @@ To evaluate the performance we use this functions, how many were classified corr
     
     The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 - **Regression**
-- 
+
 
 
   - _Linear regression_:
-  - 
+  
 
 
     Relation of different dots in a mathematic function
