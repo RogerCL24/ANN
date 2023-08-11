@@ -93,6 +93,7 @@ To evaluate the performance we use this functions, how many were classified corr
 - **Classification**
 
   - We can use different algorithms like: logistic regression, decision tree (DT), Naive Bayes, k Nearest Neighbor (kNN) and Support Vector Machines (SVM).
+
 ![Class](https://github.com/RogerCL24/ANN/assets/90930371/b2d1ee97-1316-4720-b736-98d2bf42278d)
 
 
@@ -105,6 +106,7 @@ To evaluate the performance we use this functions, how many were classified corr
 - **Regression**
 
  - We can use different algorithms like: linear regression, DT and SVM.
+
 ![Reg](https://github.com/RogerCL24/ANN/assets/90930371/6daa8684-7739-4cf2-815c-66a465b25270)
 
 
