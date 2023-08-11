@@ -89,8 +89,30 @@ Imagine you have several animal pictures and a trained model created to detect d
 To evaluate the performance we use this functions, how many were classified correctly and how many were classified wrong.
 
 ## Algorithms
-### NSMLA
-- **Classification**
+### Non supervised Machine Learning algortihms 
+**Classification**
+
+
+  - _Decision Tree (DT)_: <sub> To classificate </sub>
+  
+  
+    
+    The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
+- **Regression**
+- 
+
+
+  - _Linear regression_:
+  - 
+
+
+    Relation of different dots in a mathematic function
+    
+  - _Decision Tree (DT)_: <sub> To give real numbers </sub> 
+
+  
+  This algorithm can produce erros, like overfitting -> solution
+    - _Random Forest_:
 
 
    
