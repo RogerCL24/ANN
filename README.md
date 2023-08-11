@@ -137,7 +137,7 @@ To evaluate the performance we use this functions, how many were classified corr
   
 >  OBSERVATION: This example is for the classification DT (final class) but it can be implemented at the regression DT as well.
 
-### Unpervised Machine Learning algortihms
+### Unsupervised Machine Learning algortihms
 
 - **Clustering**
   - _k-means_:  
