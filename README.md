@@ -91,26 +91,28 @@ To evaluate the performance we use this functions, how many were classified corr
 ## Algorithms
 ### Supervised Machine Learning algortihms
 - **Classification**
-  
+
+  - We can use different algorithms like: logistic regression, decision tree (DT), Naive Bayes, k Nearest Neighbor (kNN) and Support Vector Machines (SVM).
 ![Class](https://github.com/RogerCL24/ANN/assets/90930371/b2d1ee97-1316-4720-b736-98d2bf42278d)
 
 
   - _Decision Tree (DT)_: <sub> To classificate </sub>
   
-  
+  ![DT](https://github.com/RogerCL24/ANN/assets/90930371/875f424d-b7d0-4148-b8fd-d45a2ea7aefc)
     
-    The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
-- **Regression**
- 
-![Reg](https://github.com/RogerCL24/ANN/assets/90930371/6daa8684-7739-4cf2-815c-66a465b25270)
+   - The color dots are data which will decide the behaviour of the model. First we decide the data that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 
+- **Regression**
+
+ - We can use different algorithms like: linear regression, DT and SVM.
+![Reg](https://github.com/RogerCL24/ANN/assets/90930371/6daa8684-7739-4cf2-815c-66a465b25270)
 
 
   - _Linear regression_:
   
+![RL](https://github.com/RogerCL24/ANN/assets/90930371/29bdd126-c79d-48e9-bd4e-8abdca41cb15)
 
-
-    Relation of different dots in a mathematic function
+   - It foresees unkown dependent data values (Y axis) with the use of another data value related, known and indepent (X axis)
     
   - _Decision Tree (DT)_: <sub> To give real numbers </sub> 
 
