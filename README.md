@@ -103,6 +103,11 @@ To evaluate the performance we use this functions, how many were classified corr
     
    - The color dots are data which will decide the behaviour of the model. Each node in the tree specifies a test on an attribute, each branch descending from that node corresponds to one of the possible values for that attribute, namely, first we decide the atribute x that will be sorted is _> x_ or _<= x_, then we select again _> y1_ or _<= y1_ **or** _> y2_ or _<= y2_.
 
+- _SVM_:
+
+![SVM](https://github.com/RogerCL24/ANN/assets/90930371/5ad0b9e9-52dc-4d13-85af-3ecd58bac581)
+
+- SVMs are used in applications like handwriting recognition, intrusion detection, face detection, email classification, gene classification, and in web pages. Basically the SVM algorithm creates a line or a hyperplane in order to split the data into classes.
 
 - **Regression**
   - We can use different algorithms like: linear regression, DT and SVM.
