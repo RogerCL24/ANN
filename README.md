@@ -89,5 +89,7 @@ Imagine you have several animal pictures and a trained model created to detect d
 To evaluate the performance we use this functions, how many were classified correctly and how many were classified wrong.
 
 ## Algorithms
+### NSMLA
+- C
 
    
