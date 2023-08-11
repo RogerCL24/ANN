@@ -128,7 +128,8 @@ To evaluate the performance we use this functions, how many were classified corr
   - In a regression decision tree, a tree-like structure is built where each internal node represents a decision based on a particular characteristic, and each leaf (terminal node) provides a numerical prediction. As the tree is traversed from root to leaf, feature-based decisions are followed to arrive at a final prediction.
   
   This algorithm can produce errors when is learning because it splits the nodes in smaller nodes and that is overfitting, solution ⬇️
-    - _Random Forest_:
+  
+   - _Random Forest_:
 
 ![RF](https://github.com/RogerCL24/ANN/assets/90930371/ac275093-9ec6-4fa8-a411-832b0c52639b)
 
