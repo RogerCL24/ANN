@@ -8,7 +8,8 @@ Machine learning is divided in 3 big groups _Supervised Learning_, _Unsupervised
   - **Clustering** Customer segmentation, Targeted marketing, Recommender systems.
 - _Reinforcement Learning_: Game AI, Skill Acquisition, Learning tasks, Robot Navigation, Real-time decisions.
 
-> NOTE: In this case I am going to focus on Supersvised learnig and more specifically on Classification ML
+> [!NOTE]
+> In this case I am going to focus on Supersvised learnig and more specifically on Classification ML
 
 ## Arquitectures
 ### Introduction example 
@@ -65,7 +66,8 @@ There are sevel types of optimizers like AdaGrad, RMSProp, SGDNesterov, AdaDelta
 
 Adam is the best optimization algorithm in this case, with the same amount of iterations over the dataset has less training cost.
 
-> OBSERVATION: All the optimization algorithms and activation functions are already implemented at the TensorFlow(keras) library
+> [!NOTE]
+> All the optimization algorithms and activation functions are already implemented at the TensorFlow(keras) library
 
 ### Example of the model functionality with the MNIST dataset
 ![image](https://github.com/RogerCL24/ANN/assets/90930371/f03d5f38-f9c4-4830-90a5-bc42650c0770)
@@ -134,7 +136,8 @@ To evaluate the performance we use this functions, how many were classified corr
 ![RF](https://github.com/RogerCL24/ANN/assets/90930371/ac275093-9ec6-4fa8-a411-832b0c52639b)
 
 - Now we have several trees, each DT makes their own decision and then the votation is executed, it should be an odd number of DTs
-  
+
+> [!IMPORTANT]
 >  OBSERVATION: This example is for the classification DT (final class) but it can be implemented at the regression DT as well.
 
 ### Unsupervised Machine Learning algortihms
